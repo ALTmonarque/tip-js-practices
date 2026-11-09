@@ -1,7 +1,7 @@
 "use strict";
 
-const totalTasks = 7;
-const completedTasks = 2;
+const totalTasks = 5;
+const completedTasks = 6;
 
 if (typeof totalTasks !== "number" || typeof completedTasks !== "number") {
   console.log("Ошибка: количество задач должно быть числом, а не другим типом");
